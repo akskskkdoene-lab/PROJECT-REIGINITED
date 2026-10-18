@@ -1537,7 +1537,14 @@
     "ID": 219,
     "Name": "Neon_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      214,
+      215,
+      216,
+      217
+    ]
   },
   {
     "ID": 220,
@@ -2319,133 +2326,288 @@
     "ID": 344,
     "Name": "Skeleton_Outfit",
     "Type": "Bundle",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "Outfit": true,
+    "BundleContent": [
+      132,
+      1,
+      133,
+      134
+    ]
   },
   {
     "ID": 345,
     "Name": "Police_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      8,
+      9,
+      10,
+      11
+    ]
   },
   {
     "ID": 346,
     "Name": "Huggy_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      13,
+      14,
+      15,
+      16
+    ]
   },
   {
     "ID": 347,
     "Name": "Kissy_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      17,
+      18,
+      19,
+      20
+    ]
   },
   {
     "ID": 348,
     "Name": "Astronaut_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      122,
+      66,
+      67,
+      68
+    ]
   },
   {
     "ID": 349,
     "Name": "Anime_Girl_Outfit",
     "Type": "Bundle",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "Outfit": true,
+    "BundleContent": [
+      80,
+      86,
+      89,
+      90,
+      148
+    ]
   },
   {
     "ID": 350,
     "Name": "Balloon_Animal_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      177,
+      178,
+      179,
+      180
+    ]
   },
   {
     "ID": 351,
     "Name": "Boxy_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      140,
+      141,
+      142,
+      143
+    ]
   },
   {
     "ID": 352,
     "Name": "Bunzo_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      136,
+      137,
+      138,
+      139
+    ]
   },
   {
     "ID": 353,
     "Name": "Cat_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      186,
+      187,
+      188,
+      189
+    ]
   },
   {
     "ID": 354,
     "Name": "Chicken_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      181,
+      182,
+      183,
+      184
+    ]
   },
   {
     "ID": 355,
     "Name": "Cool_Slick_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      127,
+      129,
+      130,
+      131
+    ]
   },
   {
     "ID": 356,
     "Name": "Bron_Swim_Attire_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      288,
+      289,
+      290,
+      291
+    ]
   },
   {
     "ID": 357,
     "Name": "Dapper_Suit_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      194,
+      195,
+      196,
+      27
+    ]
   },
   {
     "ID": 358,
     "Name": "Engineer_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      123,
+      124,
+      125,
+      126
+    ]
   },
   {
     "ID": 359,
     "Name": "Knight_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      144,
+      145,
+      146,
+      147
+    ]
   },
   {
     "ID": 360,
     "Name": "Mommy_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      209,
+      210,
+      211,
+      212
+    ]
   },
   {
     "ID": 361,
     "Name": "Ninja_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      23,
+      26,
+      69,
+      118
+    ]
   },
   {
     "ID": 362,
     "Name": "Princess_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      71,
+      149,
+      150,
+      151
+    ]
   },
   {
     "ID": 363,
     "Name": "Robot_Outfit",
     "Type": "Bundle",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "Outfit": true,
+    "BundleContent": [
+      197,
+      198,
+      199,
+      200
+    ]
   },
   {
     "ID": 364,
     "Name": "Scrap_Metal_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      73,
+      76,
+      78,
+      79
+    ]
   },
   {
     "ID": 365,
     "Name": "Soldier_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      292,
+      293,
+      294,
+      295
+    ]
   },
   {
     "ID": 366,
@@ -2731,25 +2893,53 @@
     "ID": 405,
     "Name": "Hazmat_Green_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      395,
+      398,
+      401,
+      404
+    ]
   },
   {
     "ID": 406,
     "Name": "Hazmat_Blue_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      394,
+      397,
+      400,
+      403
+    ]
   },
   {
     "ID": 407,
     "Name": "Hazmat_Red_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      393,
+      396,
+      399,
+      402
+    ]
   },
   {
     "ID": 408,
     "Name": "Hazmat_Bundle",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      4,
+      5,
+      6,
+      7
+    ]
   },
   {
     "ID": 409,
@@ -2771,7 +2961,14 @@
     "ID": 411,
     "Name": "Scuba_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      412,
+      413,
+      414,
+      415
+    ]
   },
   {
     "ID": 412,
@@ -2857,7 +3054,14 @@
     "ID": 422,
     "Name": "Santa_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      418,
+      419,
+      420,
+      421
+    ]
   },
   {
     "ID": 423,
@@ -2895,7 +3099,14 @@
     "ID": 427,
     "Name": "Elf_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      423,
+      424,
+      425,
+      426
+    ]
   },
   {
     "ID": 428,
@@ -2933,7 +3144,14 @@
     "ID": 432,
     "Name": "Nutcracker_Outfit",
     "Type": "Bundle",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "Outfit": true,
+    "BundleContent": [
+      428,
+      429,
+      430,
+      431
+    ]
   },
   {
     "ID": 433,
@@ -2971,7 +3189,14 @@
     "ID": 437,
     "Name": "Swimsuit_Girl_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      438,
+      439,
+      440,
+      441
+    ]
   },
   {
     "ID": 438,
@@ -3161,13 +3386,26 @@
     "ID": 462,
     "Name": "Boogie_Bot_Outfit",
     "Type": "Bundle",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "Outfit": true,
+    "BundleContent": [
+      453,
+      454,
+      455
+    ]
   },
   {
     "ID": 463,
     "Name": "Leprechaun_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      456,
+      458,
+      459,
+      460
+    ]
   },
   {
     "ID": 464,
@@ -3619,13 +3857,27 @@
     "ID": 520,
     "Name": "Easter_Bunzo_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      493,
+      494,
+      495,
+      496
+    ]
   },
   {
     "ID": 521,
     "Name": "Chocolate_Bunzo_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      497,
+      498,
+      499,
+      500
+    ]
   },
   {
     "ID": 522,
@@ -4535,109 +4787,250 @@
     "ID": 645,
     "Name": "Hair_Series_1",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": false,
+    "BundleContent": [
+      213,
+      472,
+      473,
+      474,
+      475
+    ]
   },
   {
     "ID": 646,
     "Name": "CRT_Bundle",
     "Type": "Bundle",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "Outfit": false,
+    "BundleContent": [
+      486,
+      487,
+      570,
+      626,
+      627,
+      628,
+      629,
+      680
+    ]
   },
   {
     "ID": 647,
     "Name": "Steampunk_Bundle",
     "Type": "Bundle",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "Outfit": false,
+    "BundleContent": [
+      444,
+      464,
+      482,
+      483,
+      501,
+      502,
+      503,
+      504
+    ]
   },
   {
     "ID": 648,
     "Name": "Reject_Toy_Bundle",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": false,
+    "BundleContent": [
+      574,
+      575,
+      576,
+      633,
+      634,
+      635,
+      636
+    ]
   },
   {
     "ID": 649,
     "Name": "Pirate_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      476,
+      477,
+      478,
+      479,
+      480
+    ]
   },
   {
     "ID": 650,
     "Name": "Crash_Test_Dummy_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      490,
+      491,
+      492
+    ]
   },
   {
     "ID": 651,
     "Name": "Steampunk_Outfit",
     "Type": "Bundle",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "Outfit": true,
+    "BundleContent": [
+      444,
+      501,
+      502,
+      503,
+      504
+    ]
   },
   {
     "ID": 652,
     "Name": "Prison_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      505,
+      506,
+      507,
+      508
+    ]
   },
   {
     "ID": 653,
     "Name": "Gold_Glam_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      509,
+      510,
+      511
+    ]
   },
   {
     "ID": 654,
     "Name": "Frog_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      512,
+      513,
+      514,
+      515
+    ]
   },
   {
     "ID": 655,
     "Name": "Owen_the_Oventron_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      574,
+      575,
+      576
+    ]
   },
   {
     "ID": 656,
     "Name": "Wolf_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      577,
+      578,
+      579,
+      580
+    ]
   },
   {
     "ID": 657,
     "Name": "Goat_Outfit",
     "Type": "Bundle",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "Outfit": true,
+    "BundleContent": [
+      581,
+      582,
+      583,
+      584
+    ]
   },
   {
     "ID": 658,
     "Name": "Recycled_Toy_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      586,
+      587,
+      588,
+      589
+    ]
   },
   {
     "ID": 659,
     "Name": "Fry_Cook_Outfit",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "Outfit": true,
+    "BundleContent": [
+      613,
+      614,
+      615,
+      616
+    ]
   },
   {
     "ID": 660,
     "Name": "Scientist_Outfit",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": true,
+    "BundleContent": [
+      617,
+      618,
+      619,
+      620
+    ]
   },
   {
     "ID": 661,
     "Name": "CRT_Outfit",
     "Type": "Bundle",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "Outfit": true,
+    "BundleContent": [
+      626,
+      627,
+      628,
+      629
+    ]
   },
   {
     "ID": 662,
     "Name": "Pirate_Bundle",
     "Type": "Bundle",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "Outfit": false,
+    "BundleContent": [
+      476,
+      477,
+      478,
+      479,
+      480,
+      551,
+      571,
+      630
+    ]
   },
   {
     "ID": 663,
