@@ -5,7 +5,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 2,
@@ -13,7 +14,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 4,
@@ -21,7 +27,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 5,
@@ -29,7 +36,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 6,
@@ -37,7 +45,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 7,
@@ -45,7 +54,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 8,
@@ -53,7 +63,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 9,
@@ -61,7 +72,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 10,
@@ -69,7 +81,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 11,
@@ -77,7 +90,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 12,
@@ -85,7 +99,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": false
   },
   {
     "ID": 13,
@@ -93,7 +108,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 14,
@@ -101,7 +117,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 15,
@@ -109,7 +126,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 16,
@@ -117,7 +135,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 17,
@@ -125,7 +144,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 18,
@@ -133,7 +153,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 19,
@@ -141,7 +162,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 20,
@@ -149,7 +171,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 21,
@@ -157,7 +180,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 22,
@@ -165,7 +193,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 23,
@@ -173,7 +202,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 24,
@@ -181,7 +211,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 25,
@@ -189,7 +220,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 26,
@@ -197,7 +229,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 27,
@@ -205,7 +238,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 28,
@@ -213,7 +247,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 29,
@@ -221,7 +256,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 30,
@@ -229,7 +269,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 31,
@@ -237,7 +278,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 33,
@@ -245,7 +287,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 34,
@@ -253,7 +300,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 35,
@@ -261,7 +309,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 36,
@@ -269,7 +318,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 37,
@@ -277,7 +331,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 38,
@@ -285,7 +344,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 39,
@@ -293,7 +357,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 43,
@@ -301,7 +370,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 45,
@@ -309,7 +383,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 47,
@@ -317,7 +392,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 53,
@@ -325,7 +401,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 66,
@@ -333,7 +414,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 67,
@@ -341,7 +423,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 68,
@@ -349,7 +432,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 69,
@@ -357,7 +441,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 70,
@@ -365,7 +450,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 71,
@@ -373,7 +459,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 72,
@@ -381,7 +468,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 73,
@@ -389,7 +477,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 74,
@@ -397,7 +486,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 75,
@@ -405,7 +495,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 76,
@@ -413,7 +508,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 77,
@@ -421,7 +517,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 78,
@@ -429,7 +526,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 79,
@@ -437,7 +535,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 80,
@@ -445,7 +544,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 81,
@@ -453,7 +553,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 82,
@@ -461,7 +562,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 83,
@@ -469,7 +571,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 84,
@@ -477,7 +584,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 85,
@@ -485,7 +597,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 86,
@@ -493,7 +606,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 87,
@@ -501,7 +615,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 88,
@@ -509,7 +624,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 89,
@@ -517,7 +633,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 90,
@@ -525,7 +642,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 91,
@@ -533,7 +651,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 92,
@@ -541,7 +660,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 93,
@@ -549,7 +669,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 94,
@@ -557,7 +678,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 95,
@@ -565,7 +687,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 1100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 96,
@@ -573,7 +700,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 97,
@@ -581,7 +713,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 98,
@@ -589,7 +726,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 99,
@@ -597,7 +739,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 100,
@@ -605,7 +752,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": false
   },
   {
     "ID": 101,
@@ -613,7 +761,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 102,
@@ -621,7 +774,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 103,
@@ -629,7 +787,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 104,
@@ -637,7 +800,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 105,
@@ -645,7 +813,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 106,
@@ -653,7 +826,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 107,
@@ -661,7 +839,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 108,
@@ -669,7 +852,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 109,
@@ -677,7 +865,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 110,
@@ -685,7 +878,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 111,
@@ -693,7 +891,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 112,
@@ -701,7 +904,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 113,
@@ -709,7 +917,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 114,
@@ -717,7 +930,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 115,
@@ -725,7 +943,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 116,
@@ -733,7 +956,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": false
   },
   {
     "ID": 117,
@@ -741,7 +965,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 118,
@@ -749,7 +978,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 119,
@@ -757,7 +987,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 120,
@@ -765,7 +1000,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 122,
@@ -773,7 +1013,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 123,
@@ -781,7 +1022,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 124,
@@ -789,7 +1031,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 125,
@@ -797,7 +1040,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 126,
@@ -805,7 +1049,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 127,
@@ -813,7 +1058,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 128,
@@ -821,7 +1067,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": false
   },
   {
     "ID": 129,
@@ -829,7 +1076,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 130,
@@ -837,7 +1085,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 131,
@@ -845,7 +1094,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 132,
@@ -853,7 +1103,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": null,
-    "CosmeticType": null
+    "CosmeticType": null,
+    "shoppyItem": false
   },
   {
     "ID": 133,
@@ -861,7 +1112,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": null,
-    "CosmeticType": null
+    "CosmeticType": null,
+    "shoppyItem": false
   },
   {
     "ID": 134,
@@ -869,7 +1121,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": null,
-    "CosmeticType": null
+    "CosmeticType": null,
+    "shoppyItem": false
   },
   {
     "ID": 135,
@@ -877,7 +1130,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 136,
@@ -885,7 +1143,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 137,
@@ -893,7 +1152,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 138,
@@ -901,7 +1161,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 139,
@@ -909,7 +1170,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 140,
@@ -917,7 +1179,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 141,
@@ -925,7 +1188,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 142,
@@ -933,7 +1197,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 143,
@@ -941,7 +1206,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 144,
@@ -949,7 +1215,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 145,
@@ -957,7 +1224,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 146,
@@ -965,7 +1233,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 147,
@@ -973,7 +1242,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 148,
@@ -981,7 +1251,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": false
   },
   {
     "ID": 149,
@@ -989,7 +1260,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 150,
@@ -997,7 +1269,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 151,
@@ -1005,13 +1278,15 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 152,
     "Name": "OK_Hands",
     "Type": "Action",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 154,
@@ -1019,7 +1294,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 155,
@@ -1027,7 +1303,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 156,
@@ -1035,7 +1316,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 157,
@@ -1043,7 +1325,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 158,
@@ -1051,7 +1338,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 159,
@@ -1059,7 +1351,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 160,
@@ -1067,7 +1364,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 161,
@@ -1075,7 +1377,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 162,
@@ -1083,7 +1390,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 163,
@@ -1091,7 +1399,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 164,
@@ -1099,7 +1408,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 165,
@@ -1107,7 +1421,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 166,
@@ -1115,7 +1430,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 167,
@@ -1123,7 +1443,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 168,
@@ -1131,7 +1452,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 169,
@@ -1139,7 +1461,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 170,
@@ -1147,7 +1474,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 171,
@@ -1155,7 +1483,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 172,
@@ -1163,7 +1496,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 173,
@@ -1171,7 +1505,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 174,
@@ -1179,7 +1514,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 175,
@@ -1187,7 +1527,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 176,
@@ -1195,7 +1540,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 177,
@@ -1203,7 +1553,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 178,
@@ -1211,7 +1562,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 179,
@@ -1219,7 +1571,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 180,
@@ -1227,7 +1580,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 181,
@@ -1235,7 +1589,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 182,
@@ -1243,7 +1598,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 183,
@@ -1251,7 +1607,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 184,
@@ -1259,7 +1616,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 185,
@@ -1267,7 +1625,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 750,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 186,
@@ -1275,7 +1638,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 187,
@@ -1283,7 +1647,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 188,
@@ -1291,7 +1656,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 189,
@@ -1299,7 +1665,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 190,
@@ -1307,7 +1674,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 191,
@@ -1315,7 +1683,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 192,
@@ -1323,7 +1692,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 193,
@@ -1331,7 +1705,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 194,
@@ -1339,7 +1714,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 195,
@@ -1347,7 +1723,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 196,
@@ -1355,7 +1732,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 197,
@@ -1363,7 +1741,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 198,
@@ -1371,7 +1750,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 199,
@@ -1379,7 +1759,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 200,
@@ -1387,7 +1768,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 201,
@@ -1395,7 +1777,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 202,
@@ -1403,7 +1786,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 203,
@@ -1411,7 +1795,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 220,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 204,
@@ -1419,7 +1808,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 220,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 205,
@@ -1427,7 +1821,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 220,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 206,
@@ -1435,7 +1834,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 207,
@@ -1443,7 +1847,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 208,
@@ -1451,7 +1856,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 209,
@@ -1459,7 +1869,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 210,
@@ -1467,7 +1878,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 211,
@@ -1475,7 +1887,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 212,
@@ -1483,7 +1896,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 213,
@@ -1491,7 +1905,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 214,
@@ -1499,7 +1918,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 215,
@@ -1507,7 +1927,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 216,
@@ -1515,7 +1936,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 217,
@@ -1523,7 +1945,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 218,
@@ -1531,7 +1954,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 750,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 219,
@@ -1544,7 +1972,8 @@
       215,
       216,
       217
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 220,
@@ -1552,7 +1981,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 221,
@@ -1560,7 +1990,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 222,
@@ -1568,7 +1999,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 223,
@@ -1576,7 +2012,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 224,
@@ -1584,7 +2021,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 225,
@@ -1592,7 +2030,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 226,
@@ -1600,7 +2043,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 227,
@@ -1608,7 +2052,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 228,
@@ -1616,7 +2061,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 229,
@@ -1624,7 +2070,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 230,
@@ -1632,7 +2079,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 231,
@@ -1640,7 +2088,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": false
   },
   {
     "ID": 232,
@@ -1648,7 +2097,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 233,
@@ -1656,7 +2106,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 234,
@@ -1664,7 +2115,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 235,
@@ -1672,7 +2124,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 236,
@@ -1680,7 +2133,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 237,
@@ -1688,7 +2142,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 243,
@@ -1696,7 +2151,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 244,
@@ -1704,7 +2160,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 245,
@@ -1712,37 +2173,47 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 246,
     "Name": "Season_1_Pass",
     "Type": "SeasonPass",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 247,
     "Name": "Season_2_Pass",
     "Type": "SeasonPass",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 248,
     "Name": "Season_3_Pass",
     "Type": "SeasonPass",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 249,
     "Name": "Season_4_Pass",
     "Type": "SeasonPass",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 250,
     "Name": "Season_5_Pass",
     "Type": "SeasonPass",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 251,
@@ -1750,7 +2221,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 252,
@@ -1758,7 +2230,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 253,
@@ -1766,7 +2239,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 254,
@@ -1774,7 +2248,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 256,
@@ -1782,7 +2257,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 257,
@@ -1790,7 +2266,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 220,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 258,
@@ -1798,7 +2279,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 259,
@@ -1806,7 +2288,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 260,
@@ -1814,7 +2301,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 261,
@@ -1822,7 +2314,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 262,
@@ -1830,7 +2327,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 263,
@@ -1838,7 +2340,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 264,
@@ -1846,7 +2353,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 265,
@@ -1854,7 +2362,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 266,
@@ -1862,7 +2371,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 540,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 267,
@@ -1870,7 +2384,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 268,
@@ -1878,7 +2393,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 269,
@@ -1886,7 +2402,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 270,
@@ -1894,7 +2411,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 272,
@@ -1902,7 +2420,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 273,
@@ -1910,7 +2433,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 274,
@@ -1918,7 +2442,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 275,
@@ -1926,7 +2455,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 276,
@@ -1934,7 +2468,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 277,
@@ -1942,7 +2481,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 278,
@@ -1950,7 +2490,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 279,
@@ -1958,7 +2503,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 280,
@@ -1966,7 +2512,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 400,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 281,
@@ -1974,7 +2525,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 282,
@@ -1982,7 +2534,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 283,
@@ -1990,7 +2543,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 284,
@@ -1998,7 +2552,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 285,
@@ -2006,7 +2565,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 286,
@@ -2014,7 +2578,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 288,
@@ -2022,7 +2591,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 289,
@@ -2030,7 +2600,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 290,
@@ -2038,7 +2609,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 291,
@@ -2046,7 +2618,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 292,
@@ -2054,7 +2627,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 293,
@@ -2062,7 +2636,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 294,
@@ -2070,7 +2645,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 295,
@@ -2078,7 +2654,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 296,
@@ -2086,7 +2663,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": false
   },
   {
     "ID": 297,
@@ -2094,7 +2672,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 298,
@@ -2102,7 +2685,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 299,
@@ -2110,7 +2698,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": false
   },
   {
     "ID": 300,
@@ -2118,7 +2707,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": false
   },
   {
     "ID": 301,
@@ -2126,7 +2716,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 302,
@@ -2134,7 +2729,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 303,
@@ -2142,7 +2742,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 304,
@@ -2150,7 +2751,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 305,
@@ -2158,7 +2764,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 308,
@@ -2166,7 +2773,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 310,
@@ -2174,139 +2782,206 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 311,
     "Name": "Peace",
     "Type": "Action",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": true,
+    "Price": 100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 312,
     "Name": "Thumbs_Up",
     "Type": "Action",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": true,
+    "Price": 100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 313,
     "Name": "Thumbs_Down",
     "Type": "Action",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": true,
+    "Price": 100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 315,
     "Name": "Forehead_L",
     "Type": "Action",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": true,
+    "Price": 100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 316,
     "Name": "Shhhh",
     "Type": "Action",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": true,
+    "Price": 100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 317,
     "Name": "Wave_Hello",
     "Type": "Action",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": false
   },
   {
     "ID": 318,
     "Name": "Finger_Guns",
     "Type": "Action",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": false
   },
   {
     "ID": 319,
     "Name": "Wave_Finger_No",
     "Type": "Action",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": true,
+    "Price": 210,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 320,
     "Name": "Come_Here_Finger",
     "Type": "Action",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": false
   },
   {
     "ID": 321,
     "Name": "Heart_Hands",
     "Type": "Action",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": false
   },
   {
     "ID": 322,
     "Name": "Pray_Hands",
     "Type": "Action",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": false
   },
   {
     "ID": 323,
     "Name": "Jazz_Hands",
     "Type": "Action",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "shoppyItem": false
   },
   {
     "ID": 324,
     "Name": "Nervous_Finger_Touch",
     "Type": "Action",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "shoppyItem": true,
+    "Price": 350,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 326,
     "Name": "Clapping",
     "Type": "Action",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "shoppyItem": true,
+    "Price": 350,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 328,
     "Name": "Spinning_Hands",
     "Type": "Action",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "shoppyItem": true,
+    "Price": 500,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 331,
     "Name": "Player_Sit",
     "Type": "Action",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 332,
     "Name": "Player_T-Pose",
     "Type": "Action",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 334,
     "Name": "Huggy_Sit",
     "Type": "Action",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": true,
+    "Price": 100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 335,
     "Name": "Huggy_Roar",
     "Type": "Action",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": false
   },
   {
     "ID": 337,
     "Name": "Mommy_Sit",
     "Type": "Action",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": true,
+    "Price": 100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 339,
     "Name": "Boxy_Box",
     "Type": "Action",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 340,
     "Name": "Boxy_Flip",
     "Type": "Action",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "shoppyItem": false
   },
   {
     "ID": 342,
@@ -2314,13 +2989,19 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 343,
     "Name": "Hazmat_Outfit_Bundle",
     "Type": "Bundle",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 344,
@@ -2333,7 +3014,8 @@
       1,
       133,
       134
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 345,
@@ -2346,7 +3028,12 @@
       9,
       10,
       11
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 220,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 346,
@@ -2359,7 +3046,12 @@
       14,
       15,
       16
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 347,
@@ -2372,7 +3064,12 @@
       18,
       19,
       20
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 348,
@@ -2385,7 +3082,8 @@
       66,
       67,
       68
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 349,
@@ -2399,7 +3097,12 @@
       89,
       90,
       148
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 1100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 350,
@@ -2412,7 +3115,8 @@
       178,
       179,
       180
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 351,
@@ -2425,7 +3129,8 @@
       141,
       142,
       143
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 352,
@@ -2438,7 +3143,8 @@
       137,
       138,
       139
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 353,
@@ -2451,7 +3157,8 @@
       187,
       188,
       189
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 354,
@@ -2464,7 +3171,8 @@
       182,
       183,
       184
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 355,
@@ -2477,7 +3185,8 @@
       129,
       130,
       131
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 356,
@@ -2490,7 +3199,8 @@
       289,
       290,
       291
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 357,
@@ -2503,7 +3213,8 @@
       195,
       196,
       27
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 358,
@@ -2516,7 +3227,8 @@
       124,
       125,
       126
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 359,
@@ -2529,7 +3241,8 @@
       145,
       146,
       147
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 360,
@@ -2542,7 +3255,12 @@
       210,
       211,
       212
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 361,
@@ -2555,7 +3273,8 @@
       26,
       69,
       118
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 362,
@@ -2568,7 +3287,12 @@
       149,
       150,
       151
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 363,
@@ -2581,7 +3305,8 @@
       198,
       199,
       200
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 364,
@@ -2594,7 +3319,8 @@
       76,
       78,
       79
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 365,
@@ -2607,7 +3333,8 @@
       293,
       294,
       295
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 366,
@@ -2615,7 +3342,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 367,
@@ -2623,7 +3351,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 368,
@@ -2631,7 +3360,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 369,
@@ -2639,7 +3369,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 370,
@@ -2647,7 +3378,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 371,
@@ -2655,7 +3387,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 372,
@@ -2663,7 +3396,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 373,
@@ -2671,7 +3405,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 374,
@@ -2679,7 +3414,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 375,
@@ -2687,7 +3423,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 376,
@@ -2695,7 +3432,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 377,
@@ -2703,7 +3441,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 378,
@@ -2711,7 +3450,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 379,
@@ -2719,7 +3459,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 380,
@@ -2727,7 +3468,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 381,
@@ -2735,7 +3477,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 382,
@@ -2743,7 +3486,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 383,
@@ -2751,7 +3495,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 384,
@@ -2759,7 +3504,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 385,
@@ -2767,7 +3513,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 386,
@@ -2775,7 +3522,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 387,
@@ -2783,7 +3531,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 388,
@@ -2791,7 +3540,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 393,
@@ -2799,7 +3549,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 394,
@@ -2807,7 +3558,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 395,
@@ -2815,7 +3567,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 396,
@@ -2823,7 +3576,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 397,
@@ -2831,7 +3585,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 398,
@@ -2839,7 +3594,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 399,
@@ -2847,7 +3603,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 400,
@@ -2855,7 +3612,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 401,
@@ -2863,7 +3621,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 402,
@@ -2871,7 +3630,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 403,
@@ -2879,7 +3639,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 404,
@@ -2887,7 +3648,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 405,
@@ -2900,7 +3662,8 @@
       398,
       401,
       404
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 406,
@@ -2913,7 +3676,8 @@
       397,
       400,
       403
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 407,
@@ -2926,7 +3690,8 @@
       396,
       399,
       402
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 408,
@@ -2939,7 +3704,8 @@
       5,
       6,
       7
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 409,
@@ -2947,7 +3713,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 410,
@@ -2955,7 +3726,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 411,
@@ -2968,7 +3740,8 @@
       413,
       414,
       415
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 412,
@@ -2976,7 +3749,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 413,
@@ -2984,7 +3758,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 414,
@@ -2992,7 +3767,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 415,
@@ -3000,7 +3776,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 416,
@@ -3008,7 +3785,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 417,
@@ -3016,7 +3798,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 418,
@@ -3024,7 +3811,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 419,
@@ -3032,7 +3824,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 420,
@@ -3040,7 +3837,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 421,
@@ -3048,7 +3850,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 422,
@@ -3061,7 +3868,12 @@
       419,
       420,
       421
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 423,
@@ -3069,7 +3881,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 424,
@@ -3077,7 +3894,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 425,
@@ -3085,7 +3907,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 426,
@@ -3093,7 +3920,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 427,
@@ -3106,7 +3938,12 @@
       424,
       425,
       426
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 428,
@@ -3114,7 +3951,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 429,
@@ -3122,7 +3964,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 430,
@@ -3130,7 +3977,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 431,
@@ -3138,7 +3990,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 750,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 432,
@@ -3151,7 +4008,12 @@
       429,
       430,
       431
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 1100,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 433,
@@ -3159,7 +4021,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 434,
@@ -3167,7 +4034,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 540,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 435,
@@ -3175,7 +4047,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 1100,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 436,
@@ -3183,7 +4060,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "Christmas",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 437,
@@ -3196,7 +4078,12 @@
       439,
       440,
       441
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 220,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 438,
@@ -3204,7 +4091,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 439,
@@ -3212,7 +4100,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 440,
@@ -3220,7 +4109,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 441,
@@ -3228,7 +4118,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 442,
@@ -3236,7 +4127,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 443,
@@ -3244,7 +4140,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 444,
@@ -3252,7 +4153,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 445,
@@ -3260,7 +4166,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 446,
@@ -3268,7 +4175,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 447,
@@ -3276,7 +4184,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "Valentines",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 448,
@@ -3284,7 +4197,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "Valentines",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 449,
@@ -3292,7 +4210,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "Valentines",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 450,
@@ -3300,7 +4223,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 1650,
+    "EventName": "Valentines",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 451,
@@ -3308,7 +4236,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "Valentines",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 452,
@@ -3316,7 +4249,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "Valentines",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 453,
@@ -3324,7 +4262,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 454,
@@ -3332,7 +4271,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 455,
@@ -3340,7 +4280,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 456,
@@ -3348,7 +4289,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 457,
@@ -3356,7 +4298,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "StPatricks",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 458,
@@ -3364,7 +4311,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 459,
@@ -3372,7 +4320,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 460,
@@ -3380,7 +4329,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 462,
@@ -3392,7 +4342,8 @@
       453,
       454,
       455
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 463,
@@ -3405,7 +4356,12 @@
       458,
       459,
       460
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "StPatricks",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 464,
@@ -3413,7 +4369,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 1100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 465,
@@ -3421,7 +4382,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "StPatricks",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 466,
@@ -3429,7 +4395,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 1100,
+    "EventName": "StPatricks",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 467,
@@ -3437,13 +4408,23 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "StPatricks",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 468,
     "Name": "Fingers_Crossed",
     "Type": "Action",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": true,
+    "Price": 210,
+    "EventName": "StPatricks",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 469,
@@ -3451,7 +4432,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 1250,
+    "EventName": "StPatricks",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 470,
@@ -3459,7 +4445,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 471,
@@ -3467,7 +4458,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 472,
@@ -3475,7 +4467,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 473,
@@ -3483,7 +4476,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 474,
@@ -3491,7 +4489,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 475,
@@ -3499,7 +4498,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 476,
@@ -3507,7 +4511,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 477,
@@ -3515,7 +4524,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 478,
@@ -3523,7 +4537,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 479,
@@ -3531,7 +4546,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 480,
@@ -3539,7 +4555,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 481,
@@ -3547,7 +4564,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 1500,
+    "EventName": "Easter",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 482,
@@ -3555,7 +4577,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 750,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 483,
@@ -3563,7 +4590,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 1100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 484,
@@ -3571,7 +4603,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 485,
@@ -3579,7 +4612,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 486,
@@ -3587,7 +4625,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 1100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 487,
@@ -3595,7 +4638,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 750,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 488,
@@ -3603,7 +4651,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 489,
@@ -3611,7 +4660,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 490,
@@ -3619,7 +4669,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 491,
@@ -3627,7 +4678,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 492,
@@ -3635,7 +4687,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 493,
@@ -3643,7 +4696,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 494,
@@ -3651,7 +4705,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 495,
@@ -3659,7 +4714,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 496,
@@ -3667,7 +4723,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 497,
@@ -3675,7 +4732,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 498,
@@ -3683,7 +4741,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 499,
@@ -3691,7 +4750,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 500,
@@ -3699,7 +4759,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 501,
@@ -3707,7 +4768,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 750,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 502,
@@ -3715,7 +4781,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 503,
@@ -3723,7 +4790,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 504,
@@ -3731,7 +4799,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 505,
@@ -3739,7 +4808,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 506,
@@ -3747,7 +4817,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 507,
@@ -3755,7 +4826,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 508,
@@ -3763,7 +4835,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 509,
@@ -3771,7 +4844,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 510,
@@ -3779,7 +4853,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 511,
@@ -3787,7 +4862,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 512,
@@ -3795,7 +4871,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 513,
@@ -3803,7 +4880,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 514,
@@ -3811,7 +4889,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 515,
@@ -3819,7 +4898,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 516,
@@ -3827,7 +4907,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "Easter",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 517,
@@ -3835,7 +4920,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "Easter",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 518,
@@ -3843,7 +4933,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 519,
@@ -3851,7 +4942,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "Easter",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 520,
@@ -3864,7 +4960,12 @@
       494,
       495,
       496
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "Easter",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 521,
@@ -3877,7 +4978,12 @@
       498,
       499,
       500
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "Easter",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 522,
@@ -3885,7 +4991,12 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 150,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 523,
@@ -3893,7 +5004,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 524,
@@ -3901,43 +5017,54 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 525,
     "Name": "Close_Extraction",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 526,
     "Name": "Playtime_Co._Family",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 527,
     "Name": "Puppet_Mommy",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 528,
     "Name": "Burger_Boxy_Chase",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 529,
     "Name": "Here's_Boxy!",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 530,
     "Name": "Killy_Willy_Chase",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 531,
@@ -3945,7 +5072,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 532,
@@ -3953,7 +5085,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 533,
@@ -3961,7 +5098,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 534,
@@ -3969,7 +5107,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 535,
@@ -3977,7 +5120,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 536,
@@ -3985,7 +5133,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 537,
@@ -3993,7 +5146,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 538,
@@ -4001,7 +5159,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 539,
@@ -4009,7 +5168,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 540,
@@ -4017,7 +5177,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 910,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 541,
@@ -4025,7 +5190,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 542,
@@ -4033,7 +5199,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 910,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 543,
@@ -4041,7 +5212,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 544,
@@ -4049,7 +5221,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Huggy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 1300,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 545,
@@ -4057,7 +5234,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 546,
@@ -4065,7 +5247,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 547,
@@ -4073,7 +5256,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 548,
@@ -4081,7 +5265,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 549,
@@ -4089,7 +5278,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 550,
@@ -4097,7 +5291,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 551,
@@ -4105,7 +5304,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 1100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 552,
@@ -4113,7 +5317,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 553,
@@ -4121,7 +5330,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 554,
@@ -4129,7 +5343,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 555,
@@ -4137,105 +5352,124 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 556,
     "Name": "Chillhop_Lobby_Music",
     "Type": "SoundPack",
     "Rarity": "Rare",
-    "SoundType": "SP_Lobby"
+    "SoundType": "SP_Lobby",
+    "shoppyItem": false
   },
   {
     "ID": 557,
     "Name": "Elevator_Lobby_Music",
     "Type": "SoundPack",
     "Rarity": "Rare",
-    "SoundType": "SP_Lobby"
+    "SoundType": "SP_Lobby",
+    "shoppyItem": false
   },
   {
     "ID": 558,
     "Name": "Scrap_Metal_Survivor_Sounds",
     "Type": "SoundPack",
     "Rarity": "Rare",
-    "SoundType": "SP_Survivor"
+    "SoundType": "SP_Survivor",
+    "shoppyItem": false
   },
   {
     "ID": 559,
     "Name": "Cyborg_Survivor_Sounds",
     "Type": "SoundPack",
     "Rarity": "Epic",
-    "SoundType": "SP_Survivor"
+    "SoundType": "SP_Survivor",
+    "shoppyItem": false
   },
   {
     "ID": 560,
     "Name": "Chilly_Ambiece",
     "Type": "SoundPack",
     "Rarity": "Epic",
-    "SoundType": "SP_Ambient"
+    "SoundType": "SP_Ambient",
+    "shoppyItem": false
   },
   {
     "ID": 561,
     "Name": "Plastic_Survivor_Sounds",
     "Type": "SoundPack",
     "Rarity": "Basic",
-    "SoundType": "SP_Survivor"
+    "SoundType": "SP_Survivor",
+    "shoppyItem": false
   },
   {
     "ID": 562,
     "Name": "Horror_Ambience",
     "Type": "SoundPack",
     "Rarity": "Epic",
-    "SoundType": "SP_Ambient"
+    "SoundType": "SP_Ambient",
+    "shoppyItem": false
   },
   {
     "ID": 563,
     "Name": "Vaporwave_Ambience",
     "Type": "SoundPack",
     "Rarity": "Rare",
-    "SoundType": "SP_Ambient"
+    "SoundType": "SP_Ambient",
+    "shoppyItem": false
   },
   {
     "ID": 564,
     "Name": "Breakcore_Chase_Music",
     "Type": "SoundPack",
     "Rarity": "Legendary",
-    "SoundType": "SP_Chase"
+    "SoundType": "SP_Chase",
+    "shoppyItem": false
   },
   {
     "ID": 565,
     "Name": "Classic_Chase",
     "Type": "SoundPack",
     "Rarity": "Legendary",
-    "SoundType": "SP_Chase"
+    "SoundType": "SP_Chase",
+    "shoppyItem": false
   },
   {
     "ID": 566,
     "Name": "303_Chase_Music",
     "Type": "SoundPack",
     "Rarity": "Rare",
-    "SoundType": "SP_Chase"
+    "SoundType": "SP_Chase",
+    "shoppyItem": false
   },
   {
     "ID": 567,
     "Name": "Chiptune_Lobby_Music",
     "Type": "SoundPack",
     "Rarity": "Rare",
-    "SoundType": "SP_Lobby"
+    "SoundType": "SP_Lobby",
+    "shoppyItem": false
   },
   {
     "ID": 568,
     "Name": "8-Bit_Puzzle_Sounds",
     "Type": "SoundPack",
     "Rarity": "Legendary",
-    "SoundType": "SP_Puzzle"
+    "SoundType": "SP_Puzzle",
+    "shoppyItem": false
   },
   {
     "ID": 569,
     "Name": "Plastic_Puzzle_Sounds",
     "Type": "SoundPack",
     "Rarity": "Rare",
-    "SoundType": "SP_Puzzle"
+    "SoundType": "SP_Puzzle",
+    "shoppyItem": false
   },
   {
     "ID": 570,
@@ -4243,7 +5477,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 1250,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 571,
@@ -4251,7 +5490,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 1250,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 572,
@@ -4259,7 +5503,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 573,
@@ -4267,7 +5512,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 750,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 574,
@@ -4275,7 +5525,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 575,
@@ -4283,7 +5534,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 576,
@@ -4291,7 +5543,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 577,
@@ -4299,7 +5552,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 578,
@@ -4307,7 +5565,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 579,
@@ -4315,7 +5574,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 580,
@@ -4323,7 +5583,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 581,
@@ -4331,7 +5592,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 582,
@@ -4339,7 +5601,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 583,
@@ -4347,7 +5610,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 584,
@@ -4355,7 +5619,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 585,
@@ -4363,7 +5628,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 586,
@@ -4371,7 +5641,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 587,
@@ -4379,7 +5650,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 588,
@@ -4387,7 +5659,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 589,
@@ -4395,7 +5668,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 590,
@@ -4403,7 +5677,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 591,
@@ -4411,7 +5686,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 592,
@@ -4419,7 +5695,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 593,
@@ -4427,55 +5704,64 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 594,
     "Name": "Chase!",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 595,
     "Name": "Factory_Concept",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 596,
     "Name": "Huggy's_Got_You!",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 597,
     "Name": "In_the_Flowers",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 598,
     "Name": "Arachnophobia",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 599,
     "Name": "PJ_Pug-A-Pillar",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 600,
     "Name": "Playtime_Co.",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 601,
     "Name": "Theater_Concept",
     "Type": "LoadingScreen",
-    "Rarity": "Basic"
+    "Rarity": "Basic",
+    "shoppyItem": false
   },
   {
     "ID": 602,
@@ -4483,7 +5769,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 603,
@@ -4491,7 +5782,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 604,
@@ -4499,7 +5791,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 605,
@@ -4507,7 +5804,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 606,
@@ -4515,7 +5813,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 607,
@@ -4523,7 +5822,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 608,
@@ -4531,7 +5831,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 609,
@@ -4539,7 +5840,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 610,
@@ -4547,7 +5849,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": false
   },
   {
     "ID": 611,
@@ -4555,7 +5858,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 612,
@@ -4563,7 +5867,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 613,
@@ -4571,7 +5880,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 614,
@@ -4579,7 +5889,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 615,
@@ -4587,7 +5898,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 616,
@@ -4595,7 +5907,8 @@
     "Type": "Cosmetic",
     "Rarity": "Basic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 617,
@@ -4603,7 +5916,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": false
   },
   {
     "ID": 618,
@@ -4611,7 +5925,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 619,
@@ -4619,7 +5934,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 620,
@@ -4627,7 +5943,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 621,
@@ -4635,7 +5952,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 626,
@@ -4643,7 +5965,12 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 750,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 627,
@@ -4651,7 +5978,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": false
   },
   {
     "ID": 628,
@@ -4659,7 +5987,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Pants"
+    "CosmeticType": "Pants",
+    "shoppyItem": false
   },
   {
     "ID": 629,
@@ -4667,7 +5996,8 @@
     "Type": "Cosmetic",
     "Rarity": "Legendary",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": false
   },
   {
     "ID": 630,
@@ -4675,7 +6005,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 631,
@@ -4683,7 +6018,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 632,
@@ -4691,7 +6031,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Grabpack"
+    "CosmeticType": "Grabpack",
+    "shoppyItem": false
   },
   {
     "ID": 633,
@@ -4699,7 +6040,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 634,
@@ -4707,7 +6053,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 635,
@@ -4715,7 +6066,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 636,
@@ -4723,7 +6079,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shoes"
+    "CosmeticType": "Shoes",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 637,
@@ -4731,13 +6092,15 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "Face"
+    "CosmeticType": "Face",
+    "shoppyItem": false
   },
   {
     "ID": 638,
     "Name": "Statue_Huggy_Outfit",
     "Type": "Bundle",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "shoppyItem": false
   },
   {
     "ID": 639,
@@ -4745,7 +6108,8 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Boxy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 640,
@@ -4753,19 +6117,22 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": false
   },
   {
     "ID": 641,
     "Name": "Jumping_Jacks",
     "Type": "Action",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": false
   },
   {
     "ID": 642,
     "Name": "Charleston_Dance",
     "Type": "Action",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "shoppyItem": false
   },
   {
     "ID": 643,
@@ -4773,7 +6140,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 644,
@@ -4781,7 +6149,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Mommy",
-    "CosmeticType": "Skin"
+    "CosmeticType": "Skin",
+    "shoppyItem": true,
+    "Price": 870,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 645,
@@ -4795,7 +6168,12 @@
       473,
       474,
       475
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 9999999,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 646,
@@ -4812,7 +6190,12 @@
       628,
       629,
       680
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 2000,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 647,
@@ -4829,7 +6212,12 @@
       502,
       503,
       504
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 2000,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 648,
@@ -4845,7 +6233,12 @@
       634,
       635,
       636
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 2000,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 649,
@@ -4859,7 +6252,12 @@
       478,
       479,
       480
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 650,
@@ -4871,7 +6269,12 @@
       490,
       491,
       492
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 651,
@@ -4885,7 +6288,12 @@
       502,
       503,
       504
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 1100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 652,
@@ -4898,7 +6306,8 @@
       506,
       507,
       508
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 653,
@@ -4910,7 +6319,12 @@
       509,
       510,
       511
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 770,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 654,
@@ -4923,7 +6337,8 @@
       513,
       514,
       515
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 655,
@@ -4935,7 +6350,12 @@
       574,
       575,
       576
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 656,
@@ -4948,7 +6368,12 @@
       578,
       579,
       580
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 460,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 657,
@@ -4961,7 +6386,8 @@
       582,
       583,
       584
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 658,
@@ -4974,7 +6400,8 @@
       587,
       588,
       589
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 659,
@@ -4987,7 +6414,8 @@
       614,
       615,
       616
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 660,
@@ -5000,7 +6428,8 @@
       618,
       619,
       620
-    ]
+    ],
+    "shoppyItem": false
   },
   {
     "ID": 661,
@@ -5013,7 +6442,12 @@
       627,
       628,
       629
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 1100,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 662,
@@ -5030,121 +6464,144 @@
       551,
       571,
       630
-    ]
+    ],
+    "shoppyItem": true,
+    "Price": 2000,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 663,
     "Name": "Shrug",
     "Type": "Action",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "shoppyItem": false
   },
   {
     "ID": 664,
     "Name": "Rock_Paper_Scissors",
     "Type": "Action",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "shoppyItem": false
   },
   {
     "ID": 665,
     "Name": "Sinister_Fingers",
     "Type": "Action",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "shoppyItem": false
   },
   {
     "ID": 666,
     "Name": "Threatening_Fist_Pound",
     "Type": "Action",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "shoppyItem": false
   },
   {
     "ID": 667,
     "Name": "Pulse_Check",
     "Type": "Action",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "shoppyItem": false
   },
   {
     "ID": 668,
     "Name": "Boxy_Dance",
     "Type": "Action",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "shoppyItem": false
   },
   {
     "ID": 669,
     "Name": "Huggy_Dance",
     "Type": "Action",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "shoppyItem": false
   },
   {
     "ID": 670,
     "Name": "Mommy_Dance",
     "Type": "Action",
-    "Rarity": "Legendary"
+    "Rarity": "Legendary",
+    "shoppyItem": false
   },
   {
     "ID": 671,
     "Name": "Steampunk_Standoff",
     "Type": "LoadingScreen",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": false
   },
   {
     "ID": 672,
     "Name": "Steampunk_Survivor_Pack",
     "Type": "SoundPack",
     "Rarity": "Epic",
-    "SoundType": null
+    "SoundType": null,
+    "shoppyItem": false
   },
   {
     "ID": 673,
     "Name": "PLAYCOINS",
     "Type": "None",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": false
   },
   {
     "ID": 674,
     "Name": "PLAYCOINS",
     "Type": "None",
-    "Rarity": "Rare"
+    "Rarity": "Rare",
+    "shoppyItem": false
   },
   {
     "ID": 675,
     "Name": "Default_Survivor_Pack",
     "Type": "SoundPack",
     "Rarity": "Basic",
-    "SoundType": "SP_Survivor"
+    "SoundType": "SP_Survivor",
+    "shoppyItem": false
   },
   {
     "ID": 676,
     "Name": "Default_Puzzle_Pack",
     "Type": "SoundPack",
     "Rarity": "Basic",
-    "SoundType": "SP_Puzzle"
+    "SoundType": "SP_Puzzle",
+    "shoppyItem": false
   },
   {
     "ID": 677,
     "Name": "Default_Chase_Music",
     "Type": "SoundPack",
     "Rarity": "Basic",
-    "SoundType": "SP_Chase"
+    "SoundType": "SP_Chase",
+    "shoppyItem": false
   },
   {
     "ID": 678,
     "Name": "Default_Lobby_Music",
     "Type": "SoundPack",
     "Rarity": "Basic",
-    "SoundType": "SP_Lobby"
+    "SoundType": "SP_Lobby",
+    "shoppyItem": false
   },
   {
     "ID": 679,
     "Name": "Default_Ambient_Music",
     "Type": "SoundPack",
     "Rarity": "Basic",
-    "SoundType": "SP_Ambient"
+    "SoundType": "SP_Ambient",
+    "shoppyItem": false
   },
   {
     "ID": 680,
     "Name": "CRT_Loading_Screen",
     "Type": "LoadingScreen",
-    "Rarity": "Epic"
+    "Rarity": "Epic",
+    "shoppyItem": false
   },
   {
     "ID": 681,
@@ -5152,7 +6609,12 @@
     "Type": "Cosmetic",
     "Rarity": "Rare",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 310,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 682,
@@ -5160,7 +6622,12 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "HandL"
+    "CosmeticType": "HandL",
+    "shoppyItem": true,
+    "Price": 520,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   },
   {
     "ID": 684,
@@ -5168,7 +6635,8 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Hat"
+    "CosmeticType": "Hat",
+    "shoppyItem": false
   },
   {
     "ID": 685,
@@ -5176,6 +6644,11 @@
     "Type": "Cosmetic",
     "Rarity": "Epic",
     "CharacterType": "Survivor",
-    "CosmeticType": "Shirt"
+    "CosmeticType": "Shirt",
+    "shoppyItem": true,
+    "Price": 0,
+    "EventName": "",
+    "Sale": false,
+    "SalePrice": null
   }
 ]
